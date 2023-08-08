@@ -28,8 +28,8 @@ int main()
 
     // call FIRST_DRIVER_IOCTL_TEST
     TheQuestion data;
-    data.FirstNumber = 6;
-    data.SecondNumber = 7;
+    data.FirstNumber = 3;
+    data.SecondNumber = 9;
 
     printf("[+] Calling FIRST_DRIVER_IOCTL_TEST...");
 
