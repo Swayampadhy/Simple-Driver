@@ -15,6 +15,14 @@ You can then start the driver using `sc start`.
 
 		sc start FirstDriver
 
+![image](https://github.com/Swayampadhy/Simple-Driver/assets/37104162/e47a649d-4079-40b0-83af-2f6a844ee91f)
+![image](https://github.com/Swayampadhy/Simple-Driver/assets/37104162/54dbed13-cf73-4a66-a8f2-224f426f7e7d)
+
+Now to run the client code - 
+
+		C:\FirstDriver\Driver_Client.exe
+![image](https://github.com/Swayampadhy/Simple-Driver/assets/37104162/4c8da03e-3035-4534-bcf5-a228a14b32c3)
+![image](https://github.com/Swayampadhy/Simple-Driver/assets/37104162/6f9748e8-a05f-4d0f-afcc-bd7c740af8dc)
 
 Another popular tool is the [OSR Driver Loader](https://www.osronline.com/article.cfm%5Earticle=157.htm). It does the same thing as sc but in a nice GUI.
 
